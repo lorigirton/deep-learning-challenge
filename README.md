@@ -38,3 +38,6 @@ The purpose of this challenge was to create a tool that the fictional company, A
 The overall results of this deep learning model showed limited improvement despite various attempts to optimize its performance. The model achieved an accuracy o fapproximately 72.5%, which indicates that it correctly predicts the success of applicants about 72.5% of the time. Although I made several attempts to enhance the model, such as adjusting the number of neurons, hidden layers, and optimization algorithms, the accuracy remained relatively stable. 
 
 In the future, I would recommend exploring more sophisticated techniques or using different machine learning algorithms to solve this classification problem. Random Forest is one example I would like to try. Additionally exploring additional data sources could provide valuable insights for improving the prediction accuracy.
+
+## Credits
+I utilized ChatGPT and AskBCS to complete this assignment.
