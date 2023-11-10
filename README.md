@@ -1,4 +1,5 @@
 # deep-learning-challenge
+![Alt Text}(https://github.com/lorigirton/deep-learning-challenge/blob/main/Red%20Black%20Circle%20Modern%20Kitchen%20Logo.png?raw=true)
 ## Overview
 The purpose of this challenge was to create a tool that the fictional company, Alphabet Soup, could use to choose applicants to fund with the best chance of success. I designed a neural network to use the CSV data, containing information on more than 34,000 organizations that previously received funding from Alphabet Soup, to make predictions for future applicants.
 
